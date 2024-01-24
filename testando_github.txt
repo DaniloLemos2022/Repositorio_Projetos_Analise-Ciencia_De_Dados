@@ -1,0 +1,3 @@
+Só testando o github.
+# Edit 1:Escrevendo nesta linha para acompanhar mudanças.
+# Edit 2:Testando uma mudança local indo para o repo remoto.
